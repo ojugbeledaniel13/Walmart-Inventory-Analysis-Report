@@ -97,9 +97,9 @@ Recommendations: Discuss the proposed solutions and how they can improve invento
 
 Visualization Dashboard: Use the charts to visually support your findings and recommendations. Explain each chart clearly and how it relates to the overall goal of the research.
 
+# summary of the analysis
 
-
-# First, carefully, understanding the dataset and checking the columns and rows. 
+ First, carefully, understanding the dataset and checking the columns and rows. 
 
 Second, understanding what is expected as a junior Data business Analyst at Walmart US. 
  
@@ -108,5 +108,5 @@ Third,  creating sub-sheets in the main Excel file for documentation of each ste
 Four,  Showing the bar charts visualization of the top  best selling products by quality & top Best slow-moving products by quality, trends  for seasonal sale trends and Pie charts for  Total sales by regions & total sales by product category.
 
 
-# summary of the analysis
+
 
