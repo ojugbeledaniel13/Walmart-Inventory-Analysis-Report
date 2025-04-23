@@ -1,5 +1,5 @@
 # Walmart-Inventory-Analysis-Report
-I provided a guidelines on how the data analysis processes can be done and it was  successfully done. 
+Using only Excel as a data analysis tool, I provided guidelines on how the data analysis processes can be done, and it was  successfully done. 
 
 # Questions to answer are as follows:
 
@@ -8,8 +8,8 @@ Question:
 You have recently been employed as a Junior Business Analyst at Walmart US. Your manager has assigned you your first project, focusing on improving the efficiency of inventory management in the store.
 
 Your task is to analyze the sales data, customer purchasing behavior, and seasonal demand patterns to address two pressing issues:
-Frequent stockouts of popular items, leading to missed sales opportunities.
-Overstock of slow-moving products, resulting in increased storage costs and markdown losses.
+Frequent stockouts of popular items lead to missed sales opportunities.
+Overstock of slow-moving products results in increased storage costs and markdown losses.
 
 # Key outcomes:
 
